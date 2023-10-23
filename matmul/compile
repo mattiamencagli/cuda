@@ -1,0 +1,1 @@
+nvcc matmul.cu -o matmul.x
