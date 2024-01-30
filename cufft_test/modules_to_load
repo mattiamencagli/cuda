@@ -1,0 +1,6 @@
+#!/bin/bash
+module purge
+
+ml nvhpc/23.5
+
+ml
